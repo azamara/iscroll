@@ -1,0 +1,10 @@
+{
+	"name": "iscroll",
+	"main": "./build/iscroll.js",
+	"ignore": [
+		"*.md",
+		".gitignore",
+		"src",
+		"demos"
+	]
+}
