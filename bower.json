@@ -1,0 +1,10 @@
+{
+	"name": "iscroll",
+	"main": "./src/iscroll.js",
+	"ignore": [
+		"*.md",
+		".gitignore",
+		"bin",
+		"examples"
+	]
+}
